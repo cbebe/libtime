@@ -1,0 +1,6 @@
+{
+  "root": "libs/time",
+  "sourceRoot": "libs/time/src",
+  "projectType": "library",
+  "tags": []
+}
