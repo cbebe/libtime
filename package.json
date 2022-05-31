@@ -1,6 +1,6 @@
 {
   "name": "libtime",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nominal types for dealing with time intervals",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
